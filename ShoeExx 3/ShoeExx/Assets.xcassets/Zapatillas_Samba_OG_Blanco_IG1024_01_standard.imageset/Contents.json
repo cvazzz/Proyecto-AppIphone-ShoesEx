@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Zapatillas_Samba_OG_Blanco_IG1024_01_standard.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
